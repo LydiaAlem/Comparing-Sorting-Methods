@@ -1,4 +1,4 @@
-# Comparing Sorting Method's nano-time in the Java Language
+# Comparing Sorting Method's 
 
     Sorting methods used:
     -> Java's built-in from --> java.util.Arrays;
